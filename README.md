@@ -6,9 +6,9 @@
 - Alzheimer therapeutic targets
 - Alzheimer drug targets
 
-
+Решение этого задания состоит из несколько python файлов, которые загружали данные, обработывали их.
 
 
 ## Решение
 
-Код
+
